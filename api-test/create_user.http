@@ -2,6 +2,6 @@ POST http://localhost:6969/signup
 Content-Type: application/json
 
 {
-    "email": "ankur3@kalita.com",
+    "email": "ankur2@kalita.com",
     "password": "huh"
 }
