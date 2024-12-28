@@ -1,10 +1,10 @@
 POST http://localhost:6969/events
 content-type: application/json
-authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFua3VyMkBrYWxpdGEuY29tIiwiZXhwIjoxNzM1MzU5OTMyLCJ1c2VySWQiOjJ9.LZolMUcfFedkAF7rILmU3cg2WvN8yJEdPkyLiR09Z3U
+authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFua3VyQGthbGl0YS5jb20iLCJleHAiOjE3MzUzNjE4NTgsInVzZXJJZCI6MX0.FsSVjTCIgUpTzD92fDibyfAYfQCh1OWC-DH8m9Rs1pg
 
 {
-    "name": "Test event 5",
-    "description": "A test event",
-    "location": "A test location",
+    "name": "Hitler",
+    "description": "A Social Worker",
+    "location": "Germany",
     "dateTime": "2025-01-01T12:40:00.000Z"
 }

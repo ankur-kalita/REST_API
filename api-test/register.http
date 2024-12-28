@@ -1,0 +1,2 @@
+POST http://localhost:6969/events/1/register
+authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFua3VyMkBrYWxpdGEuY29tIiwiZXhwIjoxNzM1MzYxOTcxLCJ1c2VySWQiOjJ9.nVe5SWV18coRiO9FkKXAfbLKvMOqHqobbw8Nayd8jd0
